@@ -77,7 +77,7 @@ Lundi 07 mars ->  CV (cours de 10H30 à 15H30 donc peut pas taffer)
 Mardi 08 mars -> CV (pas ecole)
 Mercredi 09 mars -> CV puis 2H de php (pas école)
 Jeudi 10 mars -> devoir Js,je le faire l'année passé j'avais rate ce cours et c'est important pour le comprendre donc je vais faire ça toute l'apres (4H de php le matin)
-Vendredi 11 mars -> problement greve mais shreurs fera son cours en distanciel et Toon le fera surement pas donc CV si il le fait pas
+Vendredi 11 mars -> problement greve mais shreurs fera son cours en distanciel et Toon le fera surement pas donc CV s'il le fait pas
 
 
 
