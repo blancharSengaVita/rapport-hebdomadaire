@@ -66,7 +66,7 @@ Mais j'ai pas beaucoup avancé cette semaine sur ça vu que mardi j'était HS
 Je me suis surestimé sur finir l'ergolayout ça prends plus de temps
 - Design pour le 27 mars (dernier fois je vois Mme Wera)
 
-##Portfolio
+## Portfolio
 ### Ce que j'ai fait
 rien (priorité CV et cliniclown)
 ### Ce que je vais faire
@@ -92,7 +92,7 @@ dés que je peux (pas encore présenter)
 
 d'ailleurs pour rattrapper le retard qu'on a pris avec worldskill et le jour ou il a fait grève il a decidé qu'on aura 8h de cours avec lui les 2 jeudis qui suivent
 
-##MMI
+## MMI
 ### Ce que j'ai fait
 - mes devoirs (resoudre un petit problème mettre à jour la librairie)
 ### Ce que je vais faire
