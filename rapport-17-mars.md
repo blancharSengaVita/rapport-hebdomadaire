@@ -15,23 +15,23 @@
 <img src="./img.png" alt="horaire de cours">
 
 
-vendredi 17 ->  MMI + Wordpress (ecole)
-samedi 18 -> clinclown design (pas école)
-dimanche 19 -> cliniclown design (pas école)
-lundi 20 -> feedback design + on corrige le design (ecole) / on corrige/continue le design (pas école)
-mardi 21  -> design cliniclown et portfolio (pas ecole)
-mercredi 22 -> design cliniclown et portfolio, PHP se remettre à jour pour le cours de demain (pas ecole)
-jeudi 23  -> php (ecole) portfolio cliniclown design
-vendredi 24 -> php (ecole) portfolio cliniclown design
-samedi 25 ->  portfolio clinclown design
-dimanche 26 -> portfolio cliniclown design
-lundi 27 -> design feedback + correction
-mardi 28 -> CV
-mercredi 29 -> MMI PHP WORDPRESS
-jeudi 30 -> ecole + CV 
-vendredi 31 -> ecole + CV
-Samedi 1 -> CV
-Dimanche 2 -> CV
+- vendredi 17 ->  MMI + Wordpress (ecole)
+- samedi 18 -> clinclown design (pas école)
+- dimanche 19 -> cliniclown design (pas école)
+- lundi 20 -> feedback design + on corrige le design (ecole) / on corrige/continue le design (pas école)
+- mardi 21  -> design cliniclown et portfolio (pas ecole)
+- mercredi 22 -> design cliniclown et portfolio, PHP se remettre à jour pour le cours de demain (pas ecole)
+- jeudi 23  -> php (ecole) portfolio cliniclown design
+- vendredi 24 -> php (ecole) portfolio cliniclown design
+- samedi 25 ->  portfolio clinclown design
+- dimanche 26 -> portfolio cliniclown design
+- lundi 27 -> design feedback + correction
+- mardi 28 -> CV
+- mercredi 29 -> MMI PHP WORDPRESS
+- jeudi 30 -> ecole + CV 
+- vendredi 31 -> ecole + CV
+- Samedi 1 -> CV
+- Dimanche 2 -> CV
 
 
 Pour les vacances je sens que je vais faire
