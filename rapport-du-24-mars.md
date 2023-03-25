@@ -95,7 +95,8 @@ d'ailleurs pour rattrapper le retard qu'on a pris avec worldskill et le jour ou 
 ### Ce que j'ai fait
 - refait de mon coté le framework qu'on a fait en classe
 ### Ce que je vais faire
-- les devoirs
+- les devoirs : faire changer les bulles de couleurs lorsque que la souris fait une colission avec une bulle
+- faire move my rectangle 
 - continuer à refaire le framework de mon coté pour mieux le comprendre
 ### Deadlines
 
