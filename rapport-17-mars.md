@@ -20,7 +20,7 @@
 - dimanche 19 -> cliniclown design (pas école)
 - lundi 20 -> feedback design + on corrige le design (ecole) / on corrige/continue le design (pas école)
 - mardi 21  -> design cliniclown et portfolio (pas ecole)
-- mercredi 22 -> design cliniclown et portfolio, PHP se remettre à jour pour le cours de demain (pas ecole)
+- mercredi 22 ->  PHP se remettre à jour pour le cours de demain, MMI Shapes design cliniclown et portfolio, (pas ecole)
 - jeudi 23  -> php (ecole) portfolio cliniclown design
 - vendredi 24 -> php (ecole) portfolio cliniclown design
 - samedi 25 ->  portfolio clinclown design
