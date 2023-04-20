@@ -1,7 +1,44 @@
 # Rapport du 25 mars 2023 au 31 mars 2023
 
 ## Recap de la semaine
-### week-end 25 et 26 mars (une moyenne de 7h de travail) 
+### Samedi, 1 Le début (une moyenne de 9h/10h de travail)
+CV toute la journée, j'avais commencer à 17h j'avais fini 18h (j'enleve les pauses à chaque fois)
+j'ai un peu joué à lol et dormi à 20h30
+### Dimanche 2, On continue (une moyenne de 9h/10h de travail)
+reveil 5H journée plus ou moins idem
+### Lundi 3 (8h), mardi 4(12h), mercredi(12h) 
+On charbonne le Cv le on se leve de plus en tard car on termine de plus en plus tard
+ET ON FINI le Cv
+### jeudi (2h)
+porfolio design
+### vendredi (0h)
+nada juste je joue à lol
+### samedi (3h)
+porfolio design, je joue à lol j'essaie de me remettre dans le bain puis lol avec un pote
+### dimanche (9h)
+On finit le portfolio, on a tester des trucs et on a fini le design
+### lundi 
+jour du rapport j'ai tjr rien fait la flemmme, je me leve tard la journée passe j'ai rien fait meme pas lol
+
+Le probleme c'est que j'ai bousillé mes horaires des travails finissant à 3H me reveillant à 12h (oui j'ai naturellement recommencer à dormir 10h meme j'étais un peu accro à ça). du coup reveil 12H je commencer à travailler à 15h + ou - est je voulais finir à 19h et ce jour j'avais. et pour reprendre le rhytme je me laisser hypnotisé par les ecrans regarder des vidéos, des lives twitch j'avais plus la force de les couper pour aller dormis sans compter que j'étais pas réellement fatigué
+
+Après un projet me faut du temps pour me lancer vers un autre et que lorsque que je perds mon rhytme de vie, je perds aussi ma motivation à travailler.
+
+solution 
+1. j'ai qu'a me lancer qu'il arrive, ça je vais y remedier
+2. ne pas depasser mes horaire de 9h de taffe, et profiter de regarder l'écran un peu apres
+
+
+- Lundi 3 -> CV (fin), Portfolio design
+- mardi 4 -> Portfolio design
+- mercredi 5 -> Portfolio design (fin)
+- jeudi 6 -> wordpress portfolio, on applique ce qu'on a vu en cours
+- vendredi 7 -> wordpress portfolio, on applique ce qu'on a vu en cours
+- samedi 8 -> wordpress portfolio, on applique ce qu'on a vu en cours
+- dimanche 9 -> wordpress portfolio, on applique ce qu'on a vu en cours
+
+
+### week-end 25 et 26 mars (une moyenne de 7h de travail)
 - Sur les design cliniclowns et portfolio
 ### Lundi 27 mars (0H de travail)
 - j'ai reçu les feedbacks de mme wera sur le design et changer des trucs pour le design du CV
